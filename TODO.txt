@@ -1,0 +1,54 @@
+OLD TODO:
+
+** be able to display images in that area
+** be able to sense where the mouse pointer is, over the image
+** be able to select a polygon in that area (ie, the user can move every vertex of that polygon, or add / delete vertex;  in 1st version, maybe rectangle will do)
+** float the icon, when mouse pointer touches it, display menu
+** be able to change the pop-up area's layout / position, to suit different web pages / browser
+
+Joseph TODO:
+
+(OK) control key again hides menu
+(OK) escape key hides menu
+(OK) backspace key go back one level
+4. mouse click on icon can bring up menu
+   (maybe make a small 1-line menu under icon)
+
+YKY TODO:
+
+1. use numbers/letters to navigate
+2. ability to add phrase
+3. ability to move phrases up/down
+4. ability to create new category
+5. ability to attach picture
+6. ability to annotate picture
+7. ability to click picture for phrases
+
+TRANSITION FROM OLD CONKEY:
+
+* copy to clipboard ?
+* enter to Voov / VIP chat
+* buffer
+* smiley
+* quotes
+* add / change / delete menu items
+* add node / add line
+* choose Voov / VIP chatrooms
+* load different DBs
+* save DB
+
+MINOR FEATURES:
+
+* Ctrl cannot bring up menu if not focused on text box
+* Double click to enter text immediately
+* Left click to enter text while staying in current context menu
+* Perhaps have an area for text manipulation?
+
+TODO NOW:
+
+* improve Cantonese fuzzy matching on Web
+  -- determine similarity of nuclei
+  -- generate similarity matrix from graph
+
+* UT Chatroom cannot accept simplified chars
+* How to chat in UT Chatroom without old Conkey?

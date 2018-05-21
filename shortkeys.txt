@@ -1,0 +1,688 @@
+<ITEM NAME>1
+one
+<ITEM NAME>1st
+first
+<ITEM NAME>2b
+to be
+<ITEM NAME>2d
+to do
+<ITEM NAME>2m
+2 or more men
+<ITEM NAME>2n
+tonight
+<ITEM NAME>2nd
+second
+<ITEM NAME>3rd
+third
+<ITEM NAME>41t
+for the first time
+<ITEM NAME>>H
+transhumanist
+<ITEM NAME>abit
+a bit
+<ITEM NAME>abt
+about
+<ITEM NAME>actt
+actually
+<ITEM NAME>acg
+amateur call girl
+<ITEM NAME>aft
+after
+<ITEM NAME>ag
+again
+<ITEM NAME>agst
+against
+<ITEM NAME>al
+already
+<ITEM NAME>algo
+algorithm
+<ITEM NAME>alm
+almost
+<ITEM NAME>alo
+a lot of
+<ITEM NAME>alot
+a lot
+<ITEM NAME>alr
+alright
+<ITEM NAME>alw
+always
+<ITEM NAME>ano
+another
+<ITEM NAME>ans
+answer
+<ITEM NAME>arn
+around
+<ITEM NAME>arnt
+arn't
+<ITEM NAME>atm
+at the moment
+<ITEM NAME>atst
+at the same time
+<ITEM NAME>awl
+a while
+<ITEM NAME>b
+but
+<ITEM NAME>b4
+before
+<ITEM NAME>bc
+because
+<ITEM NAME>bh
+behind
+<ITEM NAME>bk
+back
+<ITEM NAME>bn
+been
+<ITEM NAME>bng
+being
+<ITEM NAME>bnth
+beneath
+<ITEM NAME>bsi
+beside
+<ITEM NAME>bss
+*bzzzzt*
+<ITEM NAME>bt
+between
+<ITEM NAME>btw
+by the way
+<ITEM NAME>bty
+beauty
+<ITEM NAME>btyf
+beautiful
+<ITEM NAME>c
+see
+<ITEM NAME>c2
+come to
+<ITEM NAME>cant
+can't
+<ITEM NAME>cd
+could
+<ITEM NAME>cdnt
+couldn't
+<ITEM NAME>cg
+call girl
+<ITEM NAME>ch
+change
+<ITEM NAME>chan
+channel
+<ITEM NAME>chk
+check
+<ITEM NAME>cmp
+compare
+<ITEM NAME>comp
+computer
+<ITEM NAME>cont
+continue
+<ITEM NAME>cos
+cause
+<ITEM NAME>ct
+chat
+<ITEM NAME>cu
+can you
+<ITEM NAME>d
+the
+<ITEM NAME>dau
+daughter
+<ITEM NAME>ddnt
+didn't
+<ITEM NAME>ddy
+daddy
+<ITEM NAME>desp
+desparate
+<ITEM NAME>diff
+different
+<ITEM NAME>diffc
+difference
+<ITEM NAME>difft
+difficult
+<ITEM NAME>dl
+download
+<ITEM NAME>dn
+down
+<ITEM NAME>dont
+don't
+<ITEM NAME>du
+do you
+<ITEM NAME>e
+every
+<ITEM NAME>e1
+everyone
+<ITEM NAME>EA
+evolutionary algorithms
+<ITEM NAME>ee
+e-mail
+<ITEM NAME>el
+else
+<ITEM NAME>em
+them
+<ITEM NAME>EP
+evolutionary programming
+<ITEM NAME>epsy
+evolutionary psychology
+<ITEM NAME>esp
+especially
+<ITEM NAME>eth
+everything
+<ITEM NAME>exm
+example
+<ITEM NAME>exp
+experience
+<ITEM NAME>f
+for
+<ITEM NAME>fav
+favorite
+<ITEM NAME>fex
+for example
+<ITEM NAME>fn
+friend
+<ITEM NAME>fr
+from
+<ITEM NAME>fsy
+fantasy
+<ITEM NAME>g
+girl
+<ITEM NAME>g2
+go to
+<ITEM NAME>GA
+genetic algorithms
+<ITEM NAME>gb
+gangbang
+<ITEM NAME>gd
+good
+<ITEM NAME>GI
+general intelligence
+<ITEM NAME>GP
+genetic programming
+<ITEM NAME>gt2
+got to
+<ITEM NAME>gv
+give
+<ITEM NAME>h
+how
+<ITEM NAME>h2
+how to
+<ITEM NAME>hap
+happen
+<ITEM NAME>hb
+how about
+<ITEM NAME>hc
+how come
+<ITEM NAME>hccg
+high class call girl
+<ITEM NAME>hed
+he'd
+<ITEM NAME>hel
+he'll
+<ITEM NAME>hh
+heh
+<ITEM NAME>hhh
+hehe
+<ITEM NAME>hhhh
+hehehe
+<ITEM NAME>hih
+highheel
+<ITEM NAME>hm
+home
+<ITEM NAME>hml
+humiliate
+<ITEM NAME>hmln
+humiliation
+<ITEM NAME>hpy
+happy
+<ITEM NAME>hr
+here
+<ITEM NAME>hrsf
+herself
+<ITEM NAME>hsnt
+hasn't
+<ITEM NAME>hv
+have
+<ITEM NAME>hvnt
+haven't
+<ITEM NAME>i
+I
+<ITEM NAME>i2
+into
+<ITEM NAME>ic
+I see
+<ITEM NAME>id
+I'd
+<ITEM NAME>ifo
+in front of
+<ITEM NAME>ig
+I guess
+<ITEM NAME>il
+I'll
+<ITEM NAME>im
+I'm
+<ITEM NAME>ind
+independent
+<ITEM NAME>info
+information
+<ITEM NAME>inno
+innocent
+<ITEM NAME>int
+interest
+<ITEM NAME>intg
+intelligence
+<ITEM NAME>intr
+introduce
+<ITEM NAME>irl
+in real life
+<ITEM NAME>isnt
+isn't
+<ITEM NAME>itd
+it'd
+<ITEM NAME>itl
+it'll
+<ITEM NAME>iv
+I've
+<ITEM NAME>j
+just
+<ITEM NAME>je
+jealous
+<ITEM NAME>k
+ok
+<ITEM NAME>kb-
+KB (knowledgebase)
+<ITEM NAME>kd
+kind
+<ITEM NAME>kk
+is that OK?
+<ITEM NAME>kn
+know
+<ITEM NAME>kng
+knowledge
+<ITEM NAME>ko
+kind of
+<ITEM NAME>l
+like
+<ITEM NAME>l2
+like to
+<ITEM NAME>lang
+language
+<ITEM NAME>lk
+look
+<ITEM NAME>ll
+will
+<ITEM NAME>lo
+hello
+<ITEM NAME>lt
+little
+<ITEM NAME>ltm
+last time
+<ITEM NAME>ltr
+later
+<ITEM NAME>lv
+love
+<ITEM NAME>m
+more
+<ITEM NAME>m2
+me too
+<ITEM NAME>mb
+maybe
+<ITEM NAME>md
+made
+<ITEM NAME>MDL
+minimum description length
+<ITEM NAME>mem
+memory
+<ITEM NAME>mf
+my friend
+<ITEM NAME>mh
+much
+<ITEM NAME>mk
+make
+<ITEM NAME>mn
+mean
+<ITEM NAME>mny
+many
+<ITEM NAME>mskt
+miniskirt
+<ITEM NAME>mysf
+myself
+<ITEM NAME>n
+and
+<ITEM NAME>n2
+need to
+<ITEM NAME>nbd
+nobody
+<ITEM NAME>nc
+nice
+<ITEM NAME>ne
+any
+<ITEM NAME>ne1
+anyone
+<ITEM NAME>nec
+necessary
+<ITEM NAME>necy
+necessarily
+<ITEM NAME>nem
+anymore
+<ITEM NAME>neth
+anything
+<ITEM NAME>nev
+never
+<ITEM NAME>neway
+anyway
+<ITEM NAME>newhr
+anywhere
+<ITEM NAME>nf
+enough
+<ITEM NAME>nite
+night
+<ITEM NAME>nl-
+NL (natural language)
+<ITEM NAME>nm
+nevermind
+<ITEM NAME>no1
+no one
+<ITEM NAME>nt
+and then?
+<ITEM NAME>nth
+nothing
+<ITEM NAME>ntm
+next time
+<ITEM NAME>nty
+naughty
+<ITEM NAME>nu
+and you?
+<ITEM NAME>nv
+never
+<ITEM NAME>nvr
+never
+<ITEM NAME>nx
+next
+<ITEM NAME>ny
+NY
+<ITEM NAME>o
+other
+<ITEM NAME>obe
+obedient
+<ITEM NAME>oe
+only
+<ITEM NAME>ofc
+of course
+<ITEM NAME>oft
+often
+<ITEM NAME>ovr
+over
+<ITEM NAME>ow
+otherwise
+<ITEM NAME>pattrec
+pattern recognition
+<ITEM NAME>p
+pretty
+<ITEM NAME>pb
+probably
+<ITEM NAME>ph
+perhaps
+<ITEM NAME>pix
+pics
+<ITEM NAME>Pc
+probabilistic
+<ITEM NAME>pll
+parallel
+<ITEM NAME>poss
+possible
+<ITEM NAME>ppl
+people
+<ITEM NAME>prob
+problem
+<ITEM NAME>prog
+program
+<ITEM NAME>propr
+proprietary
+<ITEM NAME>pst
+prostitute
+<ITEM NAME>pt
+point
+<ITEM NAME>ptr
+particular
+<ITEM NAME>pv
+private
+<ITEM NAME>py
+play
+<ITEM NAME>q
+question
+<ITEM NAME>qt
+quite
+<ITEM NAME>r
+are
+<ITEM NAME>rem
+remember
+<ITEM NAME>rep
+representation
+<ITEM NAME>rl
+real
+<ITEM NAME>RL
+reinforcement learning
+<ITEM NAME>rp
+roleplay
+<ITEM NAME>rpg
+roleplaying
+<ITEM NAME>rt
+right
+<ITEM NAME>ru
+are you
+<ITEM NAME>ruf
+rough
+<ITEM NAME>ry
+really
+<ITEM NAME>s1
+someone
+<ITEM NAME>sc
+scene
+<ITEM NAME>sci
+science
+<ITEM NAME>sd
+sound
+<ITEM NAME>sev
+several
+<ITEM NAME>sf
+self
+<ITEM NAME>sg
+suggest
+<ITEM NAME>shd
+should
+<ITEM NAME>shdnt
+shouldn't
+<ITEM NAME>shel
+she'll
+<ITEM NAME>sht
+short
+<ITEM NAME>skt
+skirt
+<ITEM NAME>slp
+sleep
+<ITEM NAME>sm
+same
+<ITEM NAME>smv
+submissive
+<ITEM NAME>sp
+special
+<ITEM NAME>sq
+squeeze
+<ITEM NAME>st
+still
+<ITEM NAME>sth
+something
+<ITEM NAME>struct
+structure
+<ITEM NAME>stg
+stranger
+<ITEM NAME>sty
+slutty
+<ITEM NAME>sug
+suggest
+<ITEM NAME>sugn
+suggestion
+<ITEM NAME>sw
+somewhat
+<ITEM NAME>sy
+sorry
+<ITEM NAME>t
+that
+<ITEM NAME>t2
+talk to
+<ITEM NAME>t4
+therefore
+<ITEM NAME>td
+that'd
+<ITEM NAME>te
+their
+<ITEM NAME>temp
+temporary
+<ITEM NAME>tgt
+together
+<ITEM NAME>th
+this
+<ITEM NAME>thg
+thing
+<ITEM NAME>thk
+think
+<ITEM NAME>tho
+though
+<ITEM NAME>thr
+there
+<ITEM NAME>thrd
+there'd
+<ITEM NAME>thrl
+there'll
+<ITEM NAME>thro
+through
+<ITEM NAME>thrr
+there're
+<ITEM NAME>tht
+thought
+<ITEM NAME>thy
+they
+<ITEM NAME>thyd
+they'd
+<ITEM NAME>thyl
+they'll
+<ITEM NAME>thyr
+they're
+<ITEM NAME>thyv
+they've
+<ITEM NAME>tk
+take
+<ITEM NAME>tl
+that'll
+<ITEM NAME>tlk
+talk
+<ITEM NAME>tm
+time
+<ITEM NAME>tmr
+tomorrow
+<ITEM NAME>tn
+then
+<ITEM NAME>tx
+thanks
+<ITEM NAME>u
+you
+<ITEM NAME>u2
+you too
+<ITEM NAME>uc
+you see?
+<ITEM NAME>ud
+you'd
+<ITEM NAME>ul
+you'll
+<ITEM NAME>un
+understand
+<ITEM NAME>und
+under
+<ITEM NAME>undn
+underneath
+<ITEM NAME>ur
+your
+<ITEM NAME>ure
+you're
+<ITEM NAME>urs
+yours
+<ITEM NAME>ursf
+yourself
+<ITEM NAME>usa
+US
+<ITEM NAME>uu
+usually
+<ITEM NAME>uv
+you've
+<ITEM NAME>v
+very
+<ITEM NAME>VC
+virtual credit
+<ITEM NAME>w
+with
+<ITEM NAME>w2
+want to
+<ITEM NAME>wasnt
+wasn't
+<ITEM NAME>wat
+what
+<ITEM NAME>watd
+what'd
+<ITEM NAME>wate
+whatever
+<ITEM NAME>wd
+would
+<ITEM NAME>wdnt
+wouldn't
+<ITEM NAME>wed
+we'd
+<ITEM NAME>wel
+we'll
+<ITEM NAME>wer
+we're
+<ITEM NAME>werent
+weren't
+<ITEM NAME>wev
+we've
+<ITEM NAME>wh
+which
+<ITEM NAME>whl
+whole
+<ITEM NAME>whod
+who'd
+<ITEM NAME>whr
+where
+<ITEM NAME>wi
+within
+<ITEM NAME>wk
+work
+<ITEM NAME>wko
+what kind of
+<ITEM NAME>wl
+while
+<ITEM NAME>wn
+when
+<ITEM NAME>wo
+without
+<ITEM NAME>wont
+won't
+<ITEM NAME>wr
+wear
+<ITEM NAME>wrk
+work
+<ITEM NAME>wsp
+whisper
+<ITEM NAME>wt
+want
+<ITEM NAME>wubson
+would you be shy or nervous
+<ITEM NAME>ww
+woman
+<ITEM NAME>x
+cause
+<ITEM NAME>y
+why
+<ITEM NAME>ye
+yeah
+<ITEM NAME>yn
+why not?
+<ITEM NAME>yng
+young
+<ITEM NAME>yngr
+younger
+<ITEM NAME>ytd
+yesterday

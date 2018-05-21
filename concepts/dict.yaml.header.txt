@@ -1,0 +1,10 @@
+# canto.dict.yaml
+# YKY <generic.intelligence@gmail.com>
+
+---
+name: "concepts"
+version: "1"
+sort: original
+use_preset_vocabulary: true
+...
+

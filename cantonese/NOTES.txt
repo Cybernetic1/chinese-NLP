@@ -1,0 +1,4 @@
+char-freq.csv		from word.HK 粵典編輯組（has「咁」etc）
+    \____ char-rel-freq.txt
+    \____ char-rel-freq-2.txt		filtered non-Chinese chars
+

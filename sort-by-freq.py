@@ -1,15 +1,25 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
+# *** Unfinished as of 2021
+
 # Notice that by pinyin I mean spellings for Cantonese.
 
 # Input: list1 with char + pinyin
-#			list2 with char + freq
+#		 list2 with char + freq
 # Output: sort list1 by freq looked up from list2
 
 import sys
 
-f1 = open("canto-jyutping.txt", "r")	# format: char \b pinyin with tone number
+if len(sys.argv) != 3:
+	print("Usage: sort-by-freq input freq-file output")
+	print("input-file format: 字 + ....\\n")
+	print("freq-file format: 字 + freq\\n")
+	print("output-file: sort input by freq looked up from freq-file")
+	exit(0)
+
+# f1 = open("canto-jyutping.txt", "r")	# format: char \b pinyin with tone number
+f1 = open("../conceptual-keyboard/web/exact-Google-pinyins.txt", "r")
 f2 = open("canto-raw.txt", "r")			# format: char, freq
 # fo = sys.stdout
 fo = open("canto-sort-by-freq.txt", "w")
